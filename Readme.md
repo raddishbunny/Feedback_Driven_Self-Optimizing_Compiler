@@ -8,7 +8,7 @@ A custom compiler that uses runtime profiling to identify frequently executed co
     sudo apt update<br>
     sudo apt install build-essential cmake<br>
 <br>
-===>(2.)Build Instructions<br>
+===>(2.)Build Instructions<br>(not needed since i have pushed build folder as well for now)<br>
   cd ~/CompilerDesign/FeedbackDrivenSelfOptimizingCompiler<br>
   mkdir -p build<br>
   cd build<br>
