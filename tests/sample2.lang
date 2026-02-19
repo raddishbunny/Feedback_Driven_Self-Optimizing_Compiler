@@ -1,0 +1,6 @@
+let N = 10;
+let a = 0;
+while a < N {
+    a = a + 1;
+}
+print a;
